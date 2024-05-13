@@ -13,4 +13,4 @@ The rust advanced programming book is mainly aimed at people who have basic rust
 - http and microservices in practice in rust
 - cli programming
 - gui programming
-- system programming(Linux OS)
+- system programming

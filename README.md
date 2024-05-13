@@ -11,5 +11,6 @@ The rust advanced programming sequence is mainly aimed at people who have basic 
 - atomic operations
 - unsafe code
 - http and microservices in practice in rust
+- cli programming
 - gui programming
 - system programming(Linux OS)

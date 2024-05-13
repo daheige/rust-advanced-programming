@@ -10,6 +10,6 @@ The rust advanced programming sequence is mainly aimed at people who have basic 
 - tokio/async-std runtime
 - atomic operations
 - unsafe code
-- concurrent programming
+- http and microservices in practice in rust
 - gui programming
 - system programming(Linux OS)

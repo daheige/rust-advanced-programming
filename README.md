@@ -11,7 +11,7 @@ The rust advanced programming book is mainly aimed at people who have basic rust
 - async/await
 - tokio/async-std runtime
 - atomic operations
-- unsafe code
+- unsafe code and ffi
 - rust code debug
 - metrics and tracing
 - http and microservices in practice in rust

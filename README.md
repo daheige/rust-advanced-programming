@@ -6,10 +6,14 @@ The rust advanced programming book is mainly aimed at people who have basic rust
 - borrow checker
 - lifetimes
 - memory layout
+- trait and trait object
+- new type
 - async/await
 - tokio/async-std runtime
 - atomic operations
 - unsafe code
+- rust code debug
+- metrics and tracing
 - http and microservices in practice in rust
 - cli programming
 - gui programming
